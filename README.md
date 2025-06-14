@@ -47,3 +47,10 @@ CREATE TABLE users (
     userid VARCHAR(20) PRIMARY KEY,
     password VARCHAR(255)
 );
+## 🎥 Demo
+
+Watch the video below to see how SecureID Maker works:
+
+[![SecureID Maker Demo](https://drive.google.com/file/d/1NodJ27lsWpkycE6J93QhsbUnCF9haid-/view?usp=sharing)
+
+> This video shows how to generate a User ID and Password, and how signup and login functionalities work.
